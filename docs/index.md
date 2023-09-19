@@ -1,4 +1,4 @@
-Ceci est la page d'accueil d'un site de base généré avec le framework MkDocs et le thème Material.
+Ceci est la page d'accueil venez nombreux!
 
 > Pour voir le code [MarkDown](https://fr.wikipedia.org/wiki/Markdown){target=_blank} sous jacent, cliquer sur l'oeil en haut à droite.
 
